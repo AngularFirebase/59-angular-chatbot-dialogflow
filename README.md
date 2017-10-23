@@ -1,6 +1,8 @@
 # Angular Chatbot with DialogFlow
 
-Watch the screencast: 
+Watch the [angular chatbot screencast](https://angularfirebase.com/lessons/chatbot-in-angular-with-dialogflow-api-ai/)
+
+![](https://firebasestorage.googleapis.com/v0/b/firestarter-96e46.appspot.com/o/assets%2Fdialogflow-angular-demo.gif?alt=media&token=9fbecf3f-1174-4e84-9c73-6ddfe2d55807)
 
 ## Usage
 
